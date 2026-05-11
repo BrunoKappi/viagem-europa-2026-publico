@@ -1,0 +1,227 @@
+[
+  {
+    "id": "hostel-wot-lisboa",
+    "name": "Hostel (WOT Patio Social)",
+    "desc": "Acomodação"
+  },
+  {
+    "id": "time-out-market",
+    "name": "Time Out Market",
+    "desc": "Jantar"
+  },
+  {
+    "id": "praca-imperio",
+    "name": "Praça do Império",
+    "desc": "Praça central de Belém"
+  },
+  {
+    "id": "potato-project",
+    "name": "Potato Project",
+    "desc": "Almoço"
+  },
+  {
+    "id": "miradouro-santa-luzia",
+    "name": "Miradouro de Santa Luzia",
+    "desc": "Vista panorâmica"
+  },
+  {
+    "id": "miradouro-graca",
+    "name": "Miradouro da Graça",
+    "desc": "Vista ao pôr do sol"
+  },
+  {
+    "id": "igreja-sao-vicente",
+    "name": "Igreja de São Vicente de Fora",
+    "desc": "Igreja renascentista"
+  },
+  {
+    "id": "shopping-amoreiras",
+    "name": "Shopping Amoreiras",
+    "desc": "Compras"
+  },
+  {
+    "id": "maison-rose",
+    "name": "Maison Rose",
+    "desc": "Café famoso"
+  },
+  {
+    "id": "cedric-grolet",
+    "name": "Cedric Grolet Café",
+    "desc": "Cafeteria chique"
+  },
+  {
+    "id": "rue-haussmann",
+    "name": "Rue Haussmann",
+    "desc": "Passeio pelo boulevard"
+  },
+  {
+    "id": "palais-royal",
+    "name": "Palais Royal",
+    "desc": "Colunas e praça"
+  },
+  {
+    "id": "petit-palais",
+    "name": "Petit Palais",
+    "desc": "Museu e jardins"
+  },
+  {
+    "id": "grand-palais",
+    "name": "Grand Palais",
+    "desc": "Centro de exposições"
+  },
+  {
+    "id": "trocadero",
+    "name": "Trocadéro",
+    "desc": "Vista frontal para torre"
+  },
+  {
+    "id": "pont-alexandre",
+    "name": "Pont Alexandre III",
+    "desc": "Ponte clássica"
+  },
+  {
+    "id": "st-pancras",
+    "name": "St Pancras",
+    "desc": "Chegada central"
+  },
+  {
+    "id": "kings-cross",
+    "name": "Kings Cross",
+    "desc": "Estação central"
+  },
+  {
+    "id": "plataforma-9",
+    "name": "Plataforma 9¾",
+    "desc": "Harry Potter"
+  },
+  {
+    "id": "borough-market",
+    "name": "Borough Market",
+    "desc": "Almoço e comida tradicional"
+  },
+  {
+    "id": "millennium-bridge",
+    "name": "Millennium Bridge",
+    "desc": "Ponte tecnológica de pedestres"
+  },
+  {
+    "id": "catedral-sao-paulo",
+    "name": "Catedral de São Paulo",
+    "desc": "Cúpula central e histórica"
+  },
+  {
+    "id": "leicester-square",
+    "name": "Leicester Square",
+    "desc": "Cinema e atrações"
+  },
+  {
+    "id": "piccadilly",
+    "name": "Piccadilly Circus",
+    "desc": "Painéis e centro urbano"
+  },
+  {
+    "id": "soho",
+    "name": "Soho",
+    "desc": "Passeio cultural"
+  },
+  {
+    "id": "chinatown",
+    "name": "Chinatown",
+    "desc": "Bairro asiático"
+  },
+  {
+    "id": "pub",
+    "name": "Pub tradicional",
+    "desc": "Jantar pub inglês"
+  },
+  {
+    "id": "portobello",
+    "name": "Portobello Road Market",
+    "desc": "Feira de rua com antiguidades"
+  },
+  {
+    "id": "abbey-road",
+    "name": "Abbey Road",
+    "desc": "Faixa de Pedestres icônica do the beatles"
+  },
+  {
+    "id": "sky-garden",
+    "name": "Sky Garden",
+    "desc": "Vista panorâmica 360 no topo do prédio"
+  },
+  {
+    "id": "victoria-albert",
+    "name": "Victoria and Albert Museum",
+    "desc": "Museu de tendências"
+  },
+  {
+    "id": "buckingham",
+    "name": "Buckingham Palace",
+    "desc": "Troca da Guarda"
+  },
+  {
+    "id": "sao-miguel",
+    "name": "Mercado de São Miguel",
+    "desc": "Gastronomia, tapas e vinho"
+  },
+  {
+    "id": "palacio-real-es",
+    "name": "Palácio Real",
+    "desc": "Gigantesca residência monarca da espanha antiga"
+  },
+  {
+    "id": "almudena",
+    "name": "Catedral de Almudena",
+    "desc": "Junto ao palacio da capital formosa ibérica"
+  },
+  {
+    "id": "sabatini",
+    "name": "Jardins de Sabatini",
+    "desc": "Labirintos arborizados elegantes em dias ensolarados"
+  },
+  {
+    "id": "metropolis",
+    "name": "Edifício Metrópolis",
+    "desc": "Construção com o anjo em cima linda da via principal"
+  },
+  {
+    "id": "chafariz-cibeles",
+    "name": "Chafariz de Cibeles",
+    "desc": "As comemorações futebolísticas passam todas aqui"
+  },
+  {
+    "id": "palacio-cibeles",
+    "name": "Palácio de Cibeles",
+    "desc": "Câmara gigante linda no centro burocrático de plaza"
+  },
+  {
+    "id": "debod",
+    "name": "Templo de Debod",
+    "desc": "Pôr do Sol deslumbrante na construção egípcia presente em Madrid"
+  },
+  {
+    "id": "santiago-bernabeu",
+    "name": "Estádio Santiago Bernabéu",
+    "desc": "Emocionante a casa moderna e espetacular dos merengues europeus multi-campeões"
+  },
+  {
+    "id": "retiro",
+    "name": "Parque do Retiro",
+    "desc": "Descanso com barquinhos da realeza no meio das árvores"
+  },
+  {
+    "id": "palacio-cristal",
+    "name": "Palácio de Cristal",
+    "desc": "Templo em vidro que exibe o requinte real do país"
+  },
+  {
+    "id": "netuno",
+    "name": "Chafariz de Netuno",
+    "desc": "Famosa escultura oposta que saúda outra torcida do outro clube clássico madrilenho."
+  },
+  {
+    "id": "banco-espanha",
+    "name": "Banco de Espanha",
+    "desc": "O belíssimo ponto arquitetônico assaltado na grande casa de papel espanhola."
+  }
+]
