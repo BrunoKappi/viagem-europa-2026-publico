@@ -177,7 +177,8 @@ export const flights: Flight[] = [
     duration: "1h 40m",
     locator: "XXXXXX",
     passengers: "BRUNO, EDUARDA",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
     checkinDate: "02/04/2026",
     checkinTime: "04:05",
   },
@@ -190,7 +191,8 @@ export const flights: Flight[] = [
     duration: "9h 50m",
     locator: "XXXXXX",
     passengers: "BRUNO, EDUARDA",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
     checkinDate: "02/04/2026",
     checkinTime: "04:25",
   },
@@ -203,7 +205,8 @@ export const flights: Flight[] = [
     duration: "3h 05m",
     locator: "XXXXXX",
     passengers: "BRUNO, EDUARDA",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
     checkinDate: "06/04/2026",
     checkinTime: "02:35",
   },
@@ -216,7 +219,8 @@ export const flights: Flight[] = [
     duration: "2h 25m",
     locator: "XXXXXX",
     passengers: "BRUNO, EDUARDA",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
     checkinDate: "27/04/2026",
     checkinTime: "17:10",
   },
@@ -229,7 +233,8 @@ export const flights: Flight[] = [
     duration: "1h 25m",
     locator: "XXXXXX",
     passengers: "BRUNO, EDUARDA",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
     checkinDate: "01/05/2026",
     checkinTime: "04:20",
   },
@@ -242,7 +247,8 @@ export const flights: Flight[] = [
     duration: "10h 20m",
     locator: "XXXXXX",
     passengers: "BRUNO",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
     checkinDate: "01/05/2026",
     checkinTime: "11:30",
   },
@@ -255,7 +261,8 @@ export const flights: Flight[] = [
     duration: "10h 15m",
     locator: "XXXXXX",
     passengers: "EDUARDA",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
     checkinDate: "01/05/2026",
     checkinTime: "11:35",
   },
@@ -268,7 +275,8 @@ export const flights: Flight[] = [
     duration: "1h 40m",
     locator: "XXXXXX",
     passengers: "BRUNO, EDUARDA",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
     checkinDate: "30/04/2026",
     checkinTime: "13:45",
   },
@@ -285,7 +293,8 @@ export const trains: Train[] = [
     operator: "DB",
     duration: "2h 47m",
     locator: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     from: "Colônia",
@@ -297,7 +306,8 @@ export const trains: Train[] = [
     operator: "DB / CFL",
     duration: "3h 31m",
     locator: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     from: "Luxemburgo",
@@ -309,7 +319,8 @@ export const trains: Train[] = [
     operator: "SNCB / NMBS",
     duration: "3h 17m",
     locator: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     from: "Bruxelas",
@@ -321,7 +332,8 @@ export const trains: Train[] = [
     operator: "SNCB / NMBS",
     duration: "Livre",
     locator: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     from: "Bruges",
@@ -333,7 +345,8 @@ export const trains: Train[] = [
     operator: "SNCB / NMBS",
     duration: "Livre",
     locator: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     from: "Ghent",
@@ -345,7 +358,8 @@ export const trains: Train[] = [
     operator: "SNCB / NMBS",
     duration: "Livre",
     locator: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     from: "Bruxelas",
@@ -357,7 +371,8 @@ export const trains: Train[] = [
     operator: "Eurostar",
     duration: "1h 30m",
     locator: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     from: "Paris",
@@ -369,7 +384,8 @@ export const trains: Train[] = [
     operator: "Eurostar",
     duration: "2h 28m",
     locator: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
 ];
 
@@ -386,7 +402,8 @@ export const accommodations: Accommodation[] = [
     guestName: "Sr. Bruno",
     email: "XXXXXX",
     phone: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "tourist-inn-amsterdam",
@@ -400,7 +417,8 @@ export const accommodations: Accommodation[] = [
     guestName: "Sr. Bruno",
     email: "XXXXXX",
     phone: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "ibis-koeln-centrum",
@@ -414,7 +432,8 @@ export const accommodations: Accommodation[] = [
     guestName: "Srta. Eduarda",
     email: "XXXXXX",
     phone: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "bb-hotel-luxembourg",
@@ -428,7 +447,8 @@ export const accommodations: Accommodation[] = [
     guestName: "Sr. Bruno",
     email: "XXXXXX",
     phone: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "ibis-brussels-gare-midi",
@@ -442,7 +462,8 @@ export const accommodations: Accommodation[] = [
     guestName: "Sr. Bruno",
     email: "XXXXXX",
     phone: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "ibis-budget-paris-montmartre",
@@ -456,7 +477,8 @@ export const accommodations: Accommodation[] = [
     guestName: "Sr. Bruno",
     email: "XXXXXX",
     phone: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "ibis-budget-london-whitechapel",
@@ -470,7 +492,8 @@ export const accommodations: Accommodation[] = [
     guestName: "Sr. Bruno",
     email: "XXXXXX",
     phone: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "the-hat-madrid",
@@ -484,7 +507,8 @@ export const accommodations: Accommodation[] = [
     guestName: "Sr. Bruno",
     email: "XXXXXX",
     phone: "XXXXXX",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
 ];
 
@@ -791,14 +815,16 @@ export const tickets: Ticket[] = [
     date: "08/04/2026",
     time: "11:00",
     city: "Amsterdam",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "cruzeiro-amsterdam",
     name: "Cruzeiro Canais Amsterdam",
     date: "08/04/2026",
     city: "Amsterdam",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "heineken",
@@ -806,7 +832,8 @@ export const tickets: Ticket[] = [
     date: "09/04/2026",
     time: "19:00",
     city: "Amsterdam",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "keukenhof",
@@ -814,14 +841,16 @@ export const tickets: Ticket[] = [
     date: "10/04/2026",
     time: "09:00",
     city: "Amsterdam",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "lisboa-card",
     name: "Lisboa Card",
     date: "04/04/2026",
     city: "Lisboa",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "cruzeiro-sena",
@@ -829,7 +858,8 @@ export const tickets: Ticket[] = [
     date: "20/04/2026",
     time: "20:00",
     city: "Paris",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "fotos-paris",
@@ -837,7 +867,8 @@ export const tickets: Ticket[] = [
     date: "21/04/2026",
     time: "09:00",
     city: "Paris",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "sky-garden-1",
@@ -845,7 +876,8 @@ export const tickets: Ticket[] = [
     date: "25/04/2026",
     time: "13:45",
     city: "Londres",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "sky-garden-2",
@@ -853,7 +885,8 @@ export const tickets: Ticket[] = [
     date: "26/04/2026",
     time: "11:15",
     city: "Londres",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
   {
     id: "sky-garden-3",
@@ -861,6 +894,7 @@ export const tickets: Ticket[] = [
     date: "26/04/2026",
     time: "18:30",
     city: "Londres",
-    fileLink: "/Fontes/ExampleDocument.pdf",
+    fileLink:
+      "https://cdn.bkappi.com/ProjectsAssets/Europe2026/ExampleDocument.pdf",
   },
 ];
